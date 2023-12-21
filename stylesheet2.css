@@ -189,15 +189,15 @@ form input, form textarea{
   margin-bottom: 1.8rem;
 }
 .textblock p{
-  font-size: 19px;
+  font-size: 16px;
   color: #262626;
 }
 .textblock h5{
-  font-size: 19px;
+  font-size: 16px;
   color: #262626;
 }
 .textblock h6{
-  font-size: 19px;
+  font-size: 16px;
   color: #262626;
   margin-top: -6%;
 }
@@ -240,7 +240,7 @@ form input, form textarea{
   width: 100%;
 }
 .feature .card-container .card{
-  width: 25rem;
+  width: 20rem;
   margin: 1rem;
   background: #fff;
   border-radius: .5rem;
