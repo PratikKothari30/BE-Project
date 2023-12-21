@@ -180,11 +180,11 @@ form input, form textarea{
   text-align: center;
   text-transform: uppercase;
   color: #777;
-  margin-bottom: 1.2rem;
+  margin-bottom: 1rem;
 }
 .textblock .sub-title{
   text-transform: uppercase;
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: blue;
   margin-bottom: 1.8rem;
 }
