@@ -285,6 +285,15 @@ nav .delete-sign{
   .container-1 .textblock{
     width: 100%;
   }
+  .container-1 .textblock .title{
+    width: 100%;
+  }
+  .container-1 .textblock .sub-title{
+    width: 100%;
+  }
+  .container-1 .textblock p{
+    display: none;
+  }
   .container-1 img{
     display: none;
   }
