@@ -284,12 +284,18 @@ nav .delete-sign{
   }
   .container-1 .textblock{
     width: 100%;
+    text-wrap: wrap;
+    text-align: left;
   }
   .container-1 .textblock .title{
     width: 100%;
+    text-wrap: wrap;
+    text-align: left;
   }
   .container-1 .textblock .sub-title{
     width: 100%;
+    text-wrap: wrap;
+    text-align: left;
   }
   .container-1 .textblock p{
     display: none;
